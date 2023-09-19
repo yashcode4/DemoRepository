@@ -1,2 +1,2 @@
 This is the current text.
-This is added at bugfix branch.
+This is added at new bugfix branch.
